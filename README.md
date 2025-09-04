@@ -25,9 +25,13 @@ The app supports difficulty levels (Easy, Medium, Hard), tracks your progress, a
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-_Add 1–2 screenshots or GIFs of your app here if possible._
+### 🏠 Home / Quiz Start
+![Main Screen](public/screenshots/main.png)
+
+### ✅ Quiz End / Results
+![Quiz End Screen](public/screenshots/quiz%20end.png)
 
 ---
 

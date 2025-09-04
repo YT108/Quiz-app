@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Which of the following sorting algorithms has the best average-case time complexity?",
+    "options": ["Bubble Sort", "Merge Sort", "Selection Sort", "Insertion Sort"],
+    "correctIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which sorting algorithm is stable and works in O(n^2) in the worst case?",
+    "options": ["Quick Sort", "Merge Sort", "Insertion Sort", "Heap Sort"],
+    "correctIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the worst-case time complexity of Quick Sort?",
+    "options": ["O(n log n)", "O(n)", "O(n^2)", "O(log n)"],
+    "correctIndex": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which sorting algorithm works best for nearly sorted arrays?",
+    "options": ["Heap Sort", "Merge Sort", "Insertion Sort", "Radix Sort"],
+    "correctIndex": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is NOT a comparison-based sorting algorithm?",
+    "options": ["Merge Sort", "Counting Sort", "Heap Sort", "Quick Sort"],
+    "correctIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the auxiliary space complexity of Merge Sort?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+    "correctIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which sorting algorithm is preferred when memory writes are costly (e.g., Flash memory)?",
+    "options": ["Merge Sort", "Quick Sort", "Selection Sort", "Bubble Sort"],
+    "correctIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the best case time complexity of Bubble Sort?",
+    "options": ["O(n)", "O(n log n)", "O(n^2)", "O(1)"],
+    "correctIndex": 0,
+    "difficulty": "easy"
+  }
+]
