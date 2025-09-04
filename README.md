@@ -67,3 +67,8 @@ Responsive Layout: Flexbox + % based widths make it mobile-friendly.
 ✅ Prevents next question until answer is selected
 ✅ Handles rapid clicks and page refresh correctly
 ✅ Tested on desktop & mobile views
+
+
+
+**## LIVE DEMO LINK**
+https://quiz-app-three-sage-63.vercel.app/
