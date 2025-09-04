@@ -24,17 +24,6 @@ The app supports difficulty levels (Easy, Medium, Hard), tracks your progress, a
 - **Deployment:** Netlify / Vercel (choose whichever you used)
 
 ---
-
-## 📸 Screenshots
-
-### 🏠 Home / Quiz Start
-![Main Screen](public/screenshots/main.png)
-
-### ✅ Quiz End / Results
-![Quiz End Screen](public/screenshots/quiz%20end.png)
-
----
-
 ## 🏗️ Project Structure
 
 src/
