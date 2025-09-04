@@ -21,7 +21,7 @@ The app supports difficulty levels (Easy, Medium, Hard), tracks your progress, a
 - **Frontend:** React (with Hooks)
 - **Bundler:** Vite
 - **Styling:** CSS (Flexbox + basic transitions)
-- **Deployment:** Netlify / Vercel (choose whichever you used)
+- **Deployment:** Vercel
 
 ---
 ## 🏗️ Project Structure
